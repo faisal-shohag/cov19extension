@@ -1,5 +1,5 @@
 # cov19extension
-<small> Made with React! </small>
+<small> Made with React! </small><br>
 <img src="https://github.com/faisalbrur/cov19extension/blob/master/demo%20pic.png?raw=true" height="300px" width="610px" />
 <br>
 <h3> How to install this covid19Ex.crx file?</h3>
