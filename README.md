@@ -31,10 +31,9 @@
     </code>
     You can edit this on your own way!
   </ol>
-  <ol>3. Create an index.html file <br> Don't write directly any css or Javascript code.</ol>
+  <ol>3. Create an index.html file. Don't Javascript code inside index.html file</ol>
   <ol>4. Create js & css file and link-up with the index.html file</ol>
   <ol>5. Now Open Chrome and goto chrome://extensions </ol>
   <ol>6. Turn on Developer mode. You'll see it top-right side.</ol>
   <ol>7. Click Load unpacked and select your folder where all the files you have created.</ol>
-  
 </ul>
