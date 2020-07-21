@@ -10,7 +10,7 @@
  <h3>How to create a chrome extension?</h3>
  <b>Without any framework:</b><br />
  <ul>
-  <ol> 1. Create a menifest.json file inside a folder</ol>
+  <ol> 1. Create a manifest.json file inside a folder</ol>
   <ol> 2. Paste this:
     <code> <pre>
     {
